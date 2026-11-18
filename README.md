@@ -126,7 +126,7 @@ I'm always interested in connecting with developers, data engineers, and technol
 </p>
 
 
-## 📂 Projects  
+ 
 
 <!-- <table>
   <tr>
