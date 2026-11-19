@@ -1,82 +1,228 @@
 
-# 👋 Hey, I'm Yuvraj Sutar
+<!-- ===================================================== -->
+<!--                    HEADER                              -->
+<!-- ===================================================== -->
 
-🚀 **Aspiring Data Engineer** | Python • SQL • PySpark • Azure • AWS
+<div align="center">
 
-Passionate about building data pipelines and transforming raw data into meaningful insights.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Yuvraj%20Sutar&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Data%20Engineer%20%7C%20Building%20with%20Data&descAlignY=58&descSize=17" width="100%"/>
 
----
+<a href="https://github.com/Yuvraj-Sutar">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer;Python+%7C+SQL+%7C+PySpark;Exploring+Azure+%26+AWS;Learning+%7C+Building+%7C+Improving" alt="Typing SVG"/>
+</a>
 
-## 💫 About Me
-
-- 🌱 Learning Python, SQL, PySpark & Data Engineering
-- 🔄 Exploring ETL/ELT pipelines and data transformation
-- ☁️ Exploring Azure and AWS cloud technologies
-- 🗄️ Learning Data Warehousing, Data Lakes & Databricks
-- 🛠️ Building practical projects and improving my skills
-
----
-
-## 🛠️ Skills & Technologies
-
-**Languages**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=Yuvraj-Sutar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Yuvraj-Sutar?label=Followers&style=for-the-badge&color=1D9BF0" alt="Followers"/>
 </p>
 
-**Big Data & Data Engineering**
-<p>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+</div>
+
+---
+
+<!-- ===================================================== -->
+<!--                    ABOUT ME                            -->
+<!-- ===================================================== -->
+
+## 👨‍💻 About Me
+
+Hello! I'm **Yuvraj Sutar**, an aspiring Data Engineer passionate about data, programming, and modern data technologies.
+
+- 🌱 Building my foundation in Data Engineering.
+- 💻 Learning Python, SQL, and PySpark.
+- 🔄 Exploring ETL/ELT pipelines and data processing.
+- ☁️ Exploring Microsoft Azure and AWS.
+- 🗄️ Learning Data Warehousing and Big Data technologies.
+- 🚀 Building practical projects to improve my technical skills.
+
+**My Focus:** Turning raw data into meaningful insights through efficient data pipelines.
+
+---
+
+<!-- ===================================================== -->
+<!--                    TECH STACK                          -->
+<!-- ===================================================== -->
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
-**Cloud Platforms**
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+### ⚡ Big Data & Data Engineering
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=spark,databricks" />
+<img src="https://img.shields.io/badge/ETL%2FELT-203A43?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Warehousing-203A43?style=for-the-badge"/>
 </p>
 
-**Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+### ☁️ Cloud Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=azure,aws" />
+</p>
+
+### 🔧 Development Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
 
-## 🚀 Currently Working On
+<!-- ===================================================== -->
+<!--                 CORE CONCEPTS                           -->
+<!-- ===================================================== -->
 
-- Strengthening Python and SQL fundamentals
-- Building ETL/ELT pipeline projects
-- Exploring Azure Data Engineering
-- Practicing real-world data workflows
+## 📚 Data Engineering Knowledge
+
+| Area | Concepts |
+|:---|:---|
+| Programming | Python, SQL |
+| Data Processing | Data Cleaning, Transformation |
+| Data Integration | ETL, ELT, Data Ingestion |
+| Big Data | Apache Spark, PySpark |
+| Storage | Data Lakes, Data Warehousing |
+| Cloud | Azure, AWS |
+| Development | Git, GitHub, Linux |
+| Architecture | Data Pipelines, Medallion Architecture |
 
 ---
 
-## 🎯 My Goal
+<!-- ===================================================== -->
+<!--                 CURRENT LEARNING                        -->
+<!-- ===================================================== -->
 
-To become a skilled Data Engineer by building real-world projects and continuously learning modern data technologies.
+## 🚀 Currently Learning
 
-## 💡 My Motto
-
-*"Skills build opportunities. Consistency turns learning into expertise."*
+- [ ] Advanced Python programming
+- [ ] SQL joins, CTEs & Window Functions
+- [ ] PySpark & Distributed Processing
+- [ ] ETL/ELT Pipeline Development
+- [ ] Azure Data Factory
+- [ ] Azure Data Lake Storage Gen2
+- [ ] Databricks & Delta Lake
+- [ ] Data Warehousing Concepts
 
 ---
+
+<!-- ===================================================== -->
+<!--                    PROJECTS                             -->
+<!-- ===================================================== -->
+
+## 💼 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📊 Expense Tracker
+
+A Python-based application to manage and track personal expenses.
+
+**Technology:** Python
+
+</td>
+<td width="50%">
+
+### 🤖 AI Resume Analyzer
+
+An AI-powered project exploring resume analysis and improvement suggestions.
+
+**Technology:** Python, AI
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🗄️ SQL Practice
+
+SQL queries and exercises covering database fundamentals and data analysis.
+
+**Technology:** SQL, MySQL
+
+</td>
+<td width="50%">
+
+### ⚡ Data Engineering Practice
+
+Hands-on exercises exploring data processing, transformation, and pipeline concepts.
+
+**Technology:** Python, SQL
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================================================== -->
+<!--                 GITHUB STATISTICS                       -->
+<!-- ===================================================== -->
+
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yuvraj-Sutar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<!-- Top Languages -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj-Sutar&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<!-- GitHub Streak -->
+<img width="70%" src="https://streak-stats.demolab.com?user=Yuvraj-Sutar&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<!-- ===================================================== -->
+<!--                 CONTRIBUTION GRAPH                      -->
+<!-- ===================================================== -->
+
+
+
+## 📈 GitHub Contribution Activity
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2ea44a/Yuvraj-Sutar" alt="Yuvraj's GitHub Contribution Calendar" width="100%" />
+</p>
+
+
+<!-- ===================================================== -->
+<!--                    CONNECT                              -->
+<!-- ===================================================== -->
 
 ## 🤝 Connect With Me
 
-<p>
-  <a href="https://github.com/Yuvraj-Sutar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/Yuvraj-Sutar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
-<p align="center">
-  ⭐ <b>Always Learning | Always Building | Always Improving</b> ⭐
-</p>
+
+<div align="center">
+
+### 💡 My Philosophy
+
+**"Skills build opportunities. Consistency turns learning into expertise."**
+
+⭐ Learn • Build • Improve • Repeat ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>
+
+</div>
