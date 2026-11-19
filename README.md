@@ -194,4 +194,3 @@ I'm always interested in connecting with developers, data engineers, and technol
   <img src="https://visitcount.itsvg.in/api?id=pratikjadhav6632&icon=0&color=0" />
 </p> 
 --- -->
-✨ *"Every project I build is a step closer to becoming the developer I aspire to be."* 🚀
