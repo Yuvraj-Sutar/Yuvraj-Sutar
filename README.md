@@ -31,6 +31,7 @@ Building practical projects that demonstrate my understanding of:
 </ul>
 
 
+
 ## 💡 My Motto
 
 "Skills build opportunities. Consistency turns learning into expertise."
@@ -131,6 +132,7 @@ I'm always interested in connecting with developers, data engineers, and technol
 <!-- <table>
   <tr>
     <td width="50%">
+				
       <h3>🔹 <a href="https://github.com/pratikjadhav6632/WonderNest">WonderNest</a></h3>
       <p>Hotel & room booking platform built with <b>Node.js, Express, MongoDB, and EJS</b>.</p>
       <p>
