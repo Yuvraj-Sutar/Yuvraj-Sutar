@@ -54,7 +54,6 @@ Hello! I'm **Yuvraj Sutar**, an aspiring Data Engineer passionate about data, pr
 ### ⚡ Big Data & Data Engineering
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=spark,databricks" />
 <img src="https://img.shields.io/badge/ETL%2FELT-203A43?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data%20Warehousing-203A43?style=for-the-badge"/>
 </p>
@@ -84,11 +83,10 @@ Hello! I'm **Yuvraj Sutar**, an aspiring Data Engineer passionate about data, pr
 | Programming | Python, SQL |
 | Data Processing | Data Cleaning, Transformation |
 | Data Integration | ETL, ELT, Data Ingestion |
-| Big Data | Apache Spark, PySpark |
+| Big Data | PySpark |
 | Storage | Data Lakes, Data Warehousing |
 | Cloud | Azure, AWS |
 | Development | Git, GitHub, Linux |
-| Architecture | Data Pipelines, Medallion Architecture |
 
 ---
 
