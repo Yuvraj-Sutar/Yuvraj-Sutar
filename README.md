@@ -1,6 +1,6 @@
 
 <!-- ===================================================== -->
-<!--                    HEADER                              -->
+<!--                       HEADER                          -->
 <!-- ===================================================== -->
 
 <div align="center">
@@ -11,17 +11,17 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer;Python+%7C+SQL+%7C+PySpark;Exploring+Azure+%26+AWS;Learning+%7C+Building+%7C+Improving" alt="Typing SVG"/>
 </a>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Yuvraj-Sutar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Yuvraj-Sutar?label=Followers&style=for-the-badge&color=1D9BF0" alt="Followers"/>
-</p>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Yuvraj-Sutar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Yuvraj-Sutar?label=Followers&style=for-the-badge&color=1D9BF0" alt="Followers"/>
 
 </div>
 
 ---
 
 <!-- ===================================================== -->
-<!--                    ABOUT ME                            -->
+<!--                       ABOUT ME                        -->
 <!-- ===================================================== -->
 
 ## 👨‍💻 About Me
@@ -40,7 +40,7 @@ Hello! I'm **Yuvraj Sutar**, an aspiring Data Engineer passionate about data, pr
 ---
 
 <!-- ===================================================== -->
-<!--                    TECH STACK                          -->
+<!--                       TECH STACK                      -->
 <!-- ===================================================== -->
 
 ## 🛠️ Tech Stack & Tools
@@ -54,8 +54,9 @@ Hello! I'm **Yuvraj Sutar**, an aspiring Data Engineer passionate about data, pr
 ### ⚡ Big Data & Data Engineering
 
 <p align="left">
-<img src="https://img.shields.io/badge/ETL%2FELT-203A43?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETL%2FELT-203A43?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Warehousing-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 </p>
 
 ### ☁️ Cloud Technologies
@@ -73,7 +74,7 @@ Hello! I'm **Yuvraj Sutar**, an aspiring Data Engineer passionate about data, pr
 ---
 
 <!-- ===================================================== -->
-<!--                 CORE CONCEPTS                           -->
+<!--                   CORE CONCEPTS                       -->
 <!-- ===================================================== -->
 
 ## 📚 Data Engineering Knowledge
@@ -91,13 +92,13 @@ Hello! I'm **Yuvraj Sutar**, an aspiring Data Engineer passionate about data, pr
 ---
 
 <!-- ===================================================== -->
-<!--                 CURRENT LEARNING                        -->
+<!--                  CURRENT LEARNING                      -->
 <!-- ===================================================== -->
 
 ## 🚀 Currently Learning
 
-- [ ] Advanced Python programming
-- [ ] SQL joins, CTEs & Window Functions
+- [ ] Advanced Python Programming
+- [ ] SQL Joins, CTEs & Window Functions
 - [ ] PySpark & Distributed Processing
 - [ ] ETL/ELT Pipeline Development
 - [ ] Azure Data Factory
@@ -108,7 +109,7 @@ Hello! I'm **Yuvraj Sutar**, an aspiring Data Engineer passionate about data, pr
 ---
 
 <!-- ===================================================== -->
-<!--                    PROJECTS                             -->
+<!--                       PROJECTS                         -->
 <!-- ===================================================== -->
 
 ## 💼 Featured Projects
@@ -117,11 +118,11 @@ Hello! I'm **Yuvraj Sutar**, an aspiring Data Engineer passionate about data, pr
 <tr>
 <td width="50%">
 
-### 📊 Expense Tracker
+### 📊 Daily Expense Tracker
 
-A Python-based application to manage and track personal expenses.
+A Python Flask application to manage and track daily personal expenses.
 
-**Technology:** Python
+**Technology:** Python, Flask, MySQL, HTML, CSS
 
 </td>
 <td width="50%">
@@ -134,6 +135,7 @@ An AI-powered project exploring resume analysis and improvement suggestions.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
@@ -159,42 +161,27 @@ Hands-on exercises exploring data processing, transformation, and pipeline conce
 ---
 
 <!-- ===================================================== -->
-<!--                 GITHUB STATISTICS                       -->
+<!--                  GITHUB STATISTICS                     -->
 <!-- ===================================================== -->
-
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yuvraj-Sutar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuvraj-Sutar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
 
-<!-- Top Languages -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj-Sutar&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj-Sutar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 <br/><br/>
 
-<!-- GitHub Streak -->
 <img width="70%" src="https://streak-stats.demolab.com?user=Yuvraj-Sutar&theme=tokyonight&hide_border=true" />
 
 </div>
 
-<!-- ===================================================== -->
-<!--                 CONTRIBUTION GRAPH                      -->
-<!-- ===================================================== -->
-
-
-
-## 📈 GitHub Contribution Activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2ea44a/Yuvraj-Sutar" alt="Yuvraj's GitHub Contribution Calendar" width="100%" />
-</p>
-
+---
 
 <!-- ===================================================== -->
-<!--                    CONNECT                              -->
+<!--                    CONNECT                            -->
 <!-- ===================================================== -->
 
 ## 🤝 Connect With Me
@@ -212,6 +199,10 @@ Hands-on exercises exploring data processing, transformation, and pipeline conce
 </div>
 
 ---
+
+<!-- ===================================================== -->
+<!--                    FOOTER                             -->
+<!-- ===================================================== -->
 
 <div align="center">
 
